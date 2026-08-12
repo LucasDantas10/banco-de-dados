@@ -27,6 +27,6 @@
 
 ![alt text](image-6.png)
 
-## **Quarto e último passo - Consultar os 5 registros
+## **Quarto e último passo - Consultar os 5 registros**
 
 ![alt text](image-7.png)
